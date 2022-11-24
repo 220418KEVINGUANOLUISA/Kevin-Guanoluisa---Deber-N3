@@ -62,4 +62,7 @@ Estudiar los conceptos de corriente y voltaje según las leyes Kirchhoff, aplica
 ![image](https://user-images.githubusercontent.com/104913700/203871488-1d524239-62fc-4e12-a6e2-4c598b75d378.png)
 ![image](https://user-images.githubusercontent.com/104913700/203871555-3e9e2faf-5389-47ab-8ae9-3b64bf23702c.png)
 ![image](https://user-images.githubusercontent.com/104913700/203871592-c7676d6f-117f-451c-ba34-ab50e52e6fbc.png)
+![image](https://user-images.githubusercontent.com/104913700/203871733-49f796ce-8246-43b7-bcdb-f0bda1dc2e8c.png)
+![image](https://user-images.githubusercontent.com/104913700/203871776-1c233c47-c060-4ea0-8140-b2a572ce5291.png)
+![image](https://user-images.githubusercontent.com/104913700/203871799-d5ae041f-79f0-46eb-9cad-8adc4b49d82c.png)
 
