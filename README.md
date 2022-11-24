@@ -26,4 +26,5 @@ Estudiar los conceptos de corriente y voltaje según las leyes Kirchhoff, aplica
 
 [----------------------Ejercicios capítulo 6----------------------]
 ![image](https://user-images.githubusercontent.com/104913700/203866824-2bbf9164-189e-4724-ba90-26b1503f14be.png)
+![image](https://user-images.githubusercontent.com/104913700/203867570-dea11c71-a4f3-4bfd-b1af-a43cd82d3705.png)
 
