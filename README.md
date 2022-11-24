@@ -86,5 +86,5 @@ Jorge Cogollo. (2015b, febrero 7). EJERCICIO DE CIRCUITOS EN PARALELO - Resisten
 
 Jorge Cogollo. (2015, 4 febrero). EJERCICIO DE CIRCUITOS EN SERIE - Resistencias en Serie. YouTube. https://www.youtube.com/watch?v=jfqe3gld9ec
 
-Pagina No Encontrada www.areatecnologia.com. (s. f.). https://www.areatecnologia.com/no-encontrada.html
+(s. f.). https://www.areatecnologia.com/no-encontrada.html
 
