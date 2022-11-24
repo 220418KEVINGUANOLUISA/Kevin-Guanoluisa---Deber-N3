@@ -65,4 +65,26 @@ Estudiar los conceptos de corriente y voltaje según las leyes Kirchhoff, aplica
 ![image](https://user-images.githubusercontent.com/104913700/203871733-49f796ce-8246-43b7-bcdb-f0bda1dc2e8c.png)
 ![image](https://user-images.githubusercontent.com/104913700/203871776-1c233c47-c060-4ea0-8140-b2a572ce5291.png)
 ![image](https://user-images.githubusercontent.com/104913700/203871799-d5ae041f-79f0-46eb-9cad-8adc4b49d82c.png)
+![image](https://user-images.githubusercontent.com/104913700/203872575-bcd94bf8-7b0a-4142-9fcf-be1d9e9d9595.png)
+![image](https://user-images.githubusercontent.com/104913700/203872631-a9a56ac0-58b2-49b5-85a3-2bd47f774bbb.png)
+![image](https://user-images.githubusercontent.com/104913700/203872691-62854a03-2647-4d44-b924-f343cdf62470.png)
+
+
+4. Video
+
+https://www.youtube.com/watch?v=3oFnW4XFeXo
+
+5. Conclusiones
+
+En el presente trabajo se estudió de manera exitosa los circuitos en serie y los circuitos en paralelo logrando comprender cual serían sus resultados en la sumatoria de los valores en los diferentes componentes del circuito aplicando sus fórmulas de manera óptima. Se pudo entender las leyes de Kirchhoff en sus aplicaciones junto a la ley de Ohm igualmente con sus aplicaciones en los ejercicios planteados.   
+
+6. Bibliografía 
+
+Floyd, T. L. (2007). Principios de circuitos electrónicos (8.a ed.). Pearson.
+
+Jorge Cogollo. (2015b, febrero 7). EJERCICIO DE CIRCUITOS EN PARALELO - Resistencias en Paralelo - LEY DE OHM. YouTube. https://www.youtube.com/watch?v=EMTyhr9ntuQ
+
+Jorge Cogollo. (2015, 4 febrero). EJERCICIO DE CIRCUITOS EN SERIE - Resistencias en Serie. YouTube. https://www.youtube.com/watch?v=jfqe3gld9ec
+
+Pagina No Encontrada www.areatecnologia.com. (s. f.). https://www.areatecnologia.com/no-encontrada.html
 
